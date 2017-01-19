@@ -333,3 +333,33 @@ Verbrauchsverfolgeverfahren §256 HGB sind dann zulässig wenn sie nicht im Wied
 * Ausserplanmäßige
 
 # §6 Bewertung von Passiva
+
+## Bewertung von Verbindlichkeiten
+Die Verbindlichkeitsbewertung erfolgt erfolgsneutral
+  * Der Erfüllungsbetrag bezeichnet den in Geldeinheiten ausgedrückten Wert der Leistung, der unter normalen Umständen aufgebracht werden muss, um die Verbindlichkeiten zum Erlöschen zu bringen.
+  * Der Zugang erfordert dann die Aktivierung (Passivierung) eines Disagios, wenn sich der Auszahlungsbetrag vom Erfüllungsbetrag (Tilgungsbetrag) unterscheidet.
+  * zukünftige Preis- und Kostensteigerungen sind bei der Bewertung zu berücksichtigen
+  
+  ### Abzinsung von langsfristigen Rückstellungen
+  * Der Zinssatz ergibt sich aus dem durchschnittlichen Marktzinssatz der vergangenen sieben Jahre
+  * Erträge bzw. Aufwendungen aus der Abzinsung der Rückstellungen sind in der GuB gesondert zu erfassen
+  * Rückstellungen mit einer Laufzeit von weniger als 12 Monaten dürfen nicht abgezinst werden
+  * Steuerrecht: Ebenfalls Abzinsungsgebot gemäß §6 EStG, Zinssatz 5,5%
+  
+  ### Bewertung von Drohverlustrückstellungen
+  Die Höhe der Rückstellungen für drohende Verluste richtet sich nach den zu erwartenden künftigen Aufwandsüberschüssen
+  * Grundsätzlich gilt die Ausgeglichenheitsvermutung, d.h. es wird davon ausgegangen, dass sich Leistung und Gegenleistung bei schwebenden Geschäften ausgleichen
+  * Zukünftige Preis- und Kostensteigerung sind zu beachten
+  
+  ## Höchstprinzip von Schulden
+  Die Rückstellungshöhe richtet sich nachj dem Betrag, der am Abschlussstichtag zur Tilgung der Verpflichtung aufgewandt werden müsste.
+  * Hierbei gebietet das Imparitätsprinzip die Antizipation der Beslastung der zukünftigen GuV
+  * Das HWP gilt für lang- und kurzfristige Schulden --> Zuschreibungspflicht
+    * Bsp.: Verbindlichkeit, die auf Dollar lautet, ist bei gestiegenen Kursen zum höheren wert anzusetzen
+   * bei Fremdwährungsverbindlichkeiten mit einer Restlaufzeit von weniger als einem Jahr erfolgt die Bewertung zum Stichtagskurs unabhängig von Einschränkungen, die sich aus dem Realisations- und dem Imparitätsprinzip ergeben.
+   * Durch Aufhebung des HWP ist ein Ausweis unrealisierter Gewinne möglich
+   
+   ## Zusammenfassung
+   * Die Bewertung von Schulden folgt dem einheitlichen Prinzip des vollen Erfüllungsbetrages: Dieses zwingt zur Passivierung des Betrages, der zur Erfüllung der Verpflichtung aufgebracht werden muss
+   * Dabei sind künftige Preis- und Kostensteigerungen zu beachten
+   * eine Abzinsung von Rückstellungen ist vorzunehmen, wenn die Laufzeit 12 Monate übersteigt
