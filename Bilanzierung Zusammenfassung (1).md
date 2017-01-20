@@ -130,7 +130,7 @@ Eigenkapitalspiegel: zeigt die Entwicklungen des Eigenkapitals
 # §3 Ansatz von Aktiva
 
 ## Vollständigkeitsgrundatz
-§ 264 I HGB
+§ 246 I HGB
 
 ## Vermögensgegenstand
 
